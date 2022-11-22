@@ -1,0 +1,19 @@
+.tab-head {
+  border: none;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: Roboto;
+  color: #ffffff;
+  list-style: none;
+  padding-left: 0px;
+  margin-right: 25px;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.select-tab {
+  color: #fec653;
+  border-bottom: #fec653 solid 2px;
+}
